@@ -85,6 +85,8 @@ ExtentTest logger;
 						
 					}
 					
+					
+					
 					if(Object_Type.equalsIgnoreCase("captureData"))
 					{
 						
